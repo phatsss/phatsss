@@ -27,5 +27,5 @@ jobs:
           SHOW_SHORT_INFO: "True"
           SHOW_OS: "True"
           LOCALE: "en"
-          REPOSITORY: ${GITHUB_REPOSITORY}  
-          USERNAME: ${GITHUB_REPOSITORY%/*} 
+          REPOSITORY: ${{ github.repository }}  
+          USERNAME: ${{ github.repository_owner }} 

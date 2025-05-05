@@ -64,7 +64,7 @@
 
 ```typescript
 const techStack = {
-  languages: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS", "SQL"],
+  languages: ["JavaScript", "TypeScript", "PHP"],
   frameworks: [
     "React",
     "Redux",
@@ -77,6 +77,7 @@ const techStack = {
   libraries: ["Redux Saga", "Ant Design"],
   tools: ["Git", "Docker", "VS Code", "Webpack"],
   databases: ["MySQL", "SQL", "PostgreSQL", "Firebase"],
+  other: ["HTML", "CSS"],
 };
 ```
 

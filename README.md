@@ -60,6 +60,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
 
+## 🔧 Tech Stack Summary
+
+```typescript
+const techStack = {
+  languages: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS", "SQL"],
+  frameworks: [
+    "React",
+    "Redux",
+    "Next.js",
+    "Laravel",
+    "Node.js",
+    "Express.js",
+    "Nest.js",
+  ],
+  libraries: ["Redux Saga", "Ant Design"],
+  tools: ["Git", "Docker", "VS Code", "Webpack"],
+  databases: ["MySQL", "SQL", "PostgreSQL", "Firebase"],
+};
+```
+
 ###
 
 <div align="left">
@@ -78,13 +98,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phatsss/phatsss/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/phatsss/phatsss/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<br clear="both">
-<!-- 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=phatsss&theme=react" alt="Layout with last medium posts"  />
-</div> -->
 
 ###
